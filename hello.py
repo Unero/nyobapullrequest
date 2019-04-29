@@ -1,1 +1,4 @@
-print("Hallo World!")
+def cetak() :
+	print("Hallo World!")
+
+cetak()
